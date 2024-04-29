@@ -1,1 +1,2 @@
-# Entrega-Opcional
+Descripción
+Este proyecto ha sido mejorado con la adición de un Gestor de Carritos. El Gestor de Carritos es una herramienta que permite a los usuarios agregar, leer, actualizar y eliminar productos en sus carritos de compra de manera eficiente.
